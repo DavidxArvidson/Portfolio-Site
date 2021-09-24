@@ -29,7 +29,7 @@ main {
 
 /* general styling for main section */
 
-a:link {color: #955e42;}
+a:link {color: black;}
 a:visited {color: gray;}
 a:hover {color: green;}
 a:active {color: blue}
@@ -43,7 +43,7 @@ hr {
 /* setting height of the horizontal rules */
 
 .wrapper {
-    width: 350px;
+    width: 500px;
     margin: auto;
 }
 
