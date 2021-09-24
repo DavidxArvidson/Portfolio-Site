@@ -6,7 +6,7 @@ html {
 
 header, footer {
     text-align: center;
-    background-color: #f1aaae;
+    background: #f1aaae;
     color: #553739;
     font-family: 'Courier New', Courier, monospace;
     padding: 0px;
@@ -21,7 +21,7 @@ header, footer {
 /* created class to align specific text to center */
 
 main {
-    background-color: #748e54;
+    background: #748e54;
     color: #553739;
     font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
@@ -46,3 +46,5 @@ hr {
     width: 350px;
     margin: auto;
 }
+
+/* Wrapper class made to center all contentl */
