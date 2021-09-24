@@ -5,12 +5,18 @@ header, footer {
     font-family: 'Courier New', Courier, monospace;
 }
 
+/* general styling for header and footer section */
+
 .align-center {
     text-align: center;
 }
+
+/* created class to align specific text to center */
 
 main {
     background-color: #748e54;
     color: #553739;
     font-family: 'Courier New', Courier, monospace;
 }
+
+/* general styling for main section */
