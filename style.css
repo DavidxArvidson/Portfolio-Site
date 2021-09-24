@@ -29,10 +29,25 @@ main {
 
 /* general styling for main section */
 
-a:link {color: red;}
-a:visited {color: black;}
-a:hover {color: plum;}
-a:active {color: blue}
+a {
+    display: inline-block;
+    font-family: arial, sans-serif;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    margin: 10px;
+    padding: 6px 12px;
+    border-radius: 6px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+}
+
+/* this creats a box for the link */
+
+    a:link {color: red;}
+    a:visited {color: black;}
+    a:hover {color: plum;}
+    a:active {color: blue}
 
 /* pseudo-classes for the links in the contact section */
 
@@ -55,3 +70,5 @@ hr {
     margin-right: auto;
     width: 40%;
 }
+
+/* class made to center image */
