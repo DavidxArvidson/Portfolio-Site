@@ -20,3 +20,10 @@ main {
 }
 
 /* general styling for main section */
+
+a:link {color: #955e42;}
+a:visited {color: gray;}
+a:hover {color: green;}
+a:active {color: blue}
+
+/* pseudo-classes for the links in the contact section */
