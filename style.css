@@ -1,7 +1,16 @@
-header {
+header, footer {
     text-align: center;
     background-color: #f1aaae;
     color: #553739;
     font-family: 'Courier New', Courier, monospace;
 }
 
+.align-center {
+    text-align: center;
+}
+
+main {
+    background-color: #748e54;
+    color: #553739;
+    font-family: 'Courier New', Courier, monospace;
+}
