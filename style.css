@@ -31,7 +31,7 @@ main {
 
 a:link {color: red;}
 a:visited {color: black;}
-a:hover {color: green;}
+a:hover {color: plum;}
 a:active {color: blue}
 
 /* pseudo-classes for the links in the contact section */
