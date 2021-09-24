@@ -32,7 +32,8 @@ main {
 a {
     display: inline-block;
     font-family: arial, sans-serif;
-    font-size: 16px;
+    font-size: 20px;
+    font-weight: bold;
     text-align: center;
     text-decoration: none;
     margin: 10px;
@@ -46,7 +47,7 @@ a {
 
     a:link {color: red;}
     a:visited {color: black;}
-    a:hover {color: plum;}
+    a:hover {color: gold;}
     a:active {color: blue}
 
 /* pseudo-classes for the links in the contact section */
