@@ -6,7 +6,7 @@ This was developed using HTML and CSS.
 
 ## About Me
 
-* [LinkedIn Profile](https://www.linkedin.com/in/david-arvidson-08866811a/)
+* [LinkedIn Profile](https://www.linkedin.com/in/david-arvidson/)
 * [GitHub Profile](https://github.com/DavidxArvidson)
 
 ## Special Thanks
