@@ -1,8 +1,11 @@
-# PortfolioSite
+# Portfolio
 
 This is my portfolio website for software development. It provides information about me, my current and past projects, and ways to contact me.
 
 This was developed using HTML and CSS.
+
+The live website is located here:
+* [Live Site] (https://davidxarvidson.github.io/Portfolio-Site/)
 
 ## About Me
 
