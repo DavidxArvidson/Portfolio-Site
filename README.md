@@ -5,7 +5,7 @@ This is my portfolio website for software development. It provides information a
 This was developed using HTML and CSS.
 
 The live website is located here:
-* [Live Site] (https://davidxarvidson.github.io/Portfolio-Site/)
+* [Live Site](https://davidxarvidson.github.io/Portfolio-Site/)
 
 ## About Me
 
